@@ -134,7 +134,7 @@ class Ui_mainWindow(object):
 
     def retranslateUi(self, mainWindow):
         _translate = QtCore.QCoreApplication.translate
-        mainWindow.setWindowTitle(_translate("mainWindow", "ChemistyGames"))
+        mainWindow.setWindowTitle(_translate("mainWindow", "ChemistryGames"))
         mainWindow.setWhatsThis(_translate("mainWindow", "<html><head/><body><p>It\'s Game</p></body></html>"))
         self.btn_OGE.setText(_translate("mainWindow", "ОГЭ"))
         self.btn_EGE.setText(_translate("mainWindow", "ЕГЭ"))

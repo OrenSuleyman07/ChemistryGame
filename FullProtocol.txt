@@ -4,7 +4,7 @@ LiCl
 Белый
 FeOH
 Белый
-CuOh
+CuOH
 Жёлтый
 Cu3(PO4)2
 Синий
